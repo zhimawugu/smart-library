@@ -1,5 +1,5 @@
 <archetype>
-  <id>smart-library</id>
+  <id>library-proto</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
